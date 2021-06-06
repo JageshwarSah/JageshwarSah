@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JageshwarSah
 - 👀 I’m interested in web development and software development
-- 🌱 I’m currently learning wev development
+- 🌱 I’m currently learning web development and c++ intermediate
 - 💞️ I’m looking to collaborate on backend-web-api
 - 📫 Twitter @jpdsah
 
